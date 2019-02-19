@@ -8,6 +8,14 @@ Device to give the direction of your buddy in the open ocean for diving, fishing
 
 Uses the Sony Spresense along with an Arduino Nano. The Spresense takes care of GPS and controlling the radio and OLED display and communicates to the Nano serially. The Nano controls the NeoPixel ring and magetometer.
 
+Project instruction on Hackster.io (<https://www.hackster.io/bbtinkerer/open-ocean-buddy-locator-a582d8>)
+
+Overview Video (<https://youtu.be/wy4cD6D_Nqs>)
+
+Land Test Video (<https://youtu.be/Mx_nB5Qt_lc>)
+
+Water Test Video (<https://youtu.be/INHeaZvJSXw>)
+
 ## Dependencies
 Adafruit LSM303 library (<https://www.adafruit.com/product/1120>)
 
