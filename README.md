@@ -10,8 +10,11 @@ Uses the Sony Spresense along with an Arduino Nano. The Spresense takes care of 
 
 ## Dependencies
 Adafruit LSM303 library (<https://www.adafruit.com/product/1120>)
+
 Adafruit NeoPixel libraries (<https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels>)
+
 Adafruit OLED libraries (<https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples>)
+
 RF24 (modified) - Original by TMRH20 (<http://tmrh20.github.io/RF24/>)
 
 ## Configuration
